@@ -57,7 +57,7 @@ Midjourney：
 
 ## 📚 Materiais
 
-- ebook gerado durante as aulas em `output`
+- ebook gerado durante as aulas `FLL`
 
 ## 🛠️ Instruções de execução
 
